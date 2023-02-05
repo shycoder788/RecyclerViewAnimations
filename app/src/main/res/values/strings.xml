@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">paracticeAnimation</string>
+    <string name="slide_up">slide up</string>
+    <string name="slide_right">slide right</string>
+    <string name="slide_left">slide left</string>
+    <string name="fade_out">fade out</string>
+    <string name="fade_in">fade in</string>
+    <string name="zoom_out">zoom out</string>
+    <string name="zoom_in">zoom in</string>
+    <string name="side_down">side down</string>
+    <string name="zoom_in_fade_in">zoom in+fade in</string>
+    <string name="zoom_out_fade_out">zoom out+fade out</string>
+    <string name="rotate">rotate</string>
+    <string name="move">move</string>
+</resources>
